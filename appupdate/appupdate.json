@@ -1,0 +1,292 @@
+[
+    {
+        "name": "推荐",
+        "list": [
+            {
+                "name": "📺️电视版",
+                "url": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/raw/refs/heads/main/appupdate/OKJack/leanback-arm64_v8a-3.6.5.apk",
+                "icon": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1691551074.55475919.png",
+                "version": "3.6.5|64位(推荐)"
+            },
+            {
+                "name": "📺️电视版",
+                "url": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/raw/refs/heads/main/appupdate/OKJack/leanback-armeabi_v7a-3.6.5.apk",
+                "icon": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1691551074.55475919.png",
+                "version": "3.6.5|32位"
+            },
+            {
+                "name": "📱手机版",
+                "url": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/raw/refs/heads/main/appupdate/OKJack/mobile-arm64_v8a--3.6.5.apk",
+                "icon": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1730124020.81653464.png",
+                "version": "3.6.5|64位(推荐)"
+            },
+            {
+                "name": "📱手机版",
+                "url": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/raw/refs/heads/main/appupdate/OKJack/mobile-armeabi_v7a--3.6.5.apk",
+                "icon": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1730124020.81653464.png",
+                "version": "3.6.5|32位"
+            }
+        ]
+    },
+    {
+        "name": "👌🏻OK影视",
+        "list": [
+            {
+                "name": "📺️电视版",
+                "url": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/raw/refs/heads/main/appupdate/OKJack/leanback-arm64_v8a-3.6.5.apk",
+                "icon": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1691551074.55475919.png",
+                "version": "3.6.5|64位(推荐)"
+            },
+            {
+                "name": "📺️电视版",
+                "url": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/raw/refs/heads/main/appupdate/OKJack/leanback-armeabi_v7a-3.6.5.apk",
+                "icon": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1691551074.55475919.png",
+                "version": "3.6.5|32位"
+            },
+            {
+                "name": "📺️电视版",
+                "url": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/raw/refs/heads/main/appupdate/OKJack/海信专版-OK影视-3.6.5.apk",
+                "icon": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1691551074.55475919.png",
+                "version": "3.6.5|海信专版"
+            },
+            {
+                "name": "📱手机版",
+                "url": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/raw/refs/heads/main/appupdate/OKJack/mobile-arm64_v8a--3.6.5.apk",
+                "icon": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1730124020.81653464.png",
+                "version": "3.6.5|64位(推荐)"
+            },
+            {
+                "name": "📱手机版",
+                "url": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/raw/refs/heads/main/appupdate/OKJack/mobile-armeabi_v7a--3.6.5.apk",
+                "icon": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1730124020.81653464.png",
+                "version": "3.6.5|32位"
+            }
+        ]
+    },
+    {
+        "name": "👌🏻OK影视Pro",
+        "list": [
+            {
+                "name": "📱手机版",
+                "url": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/raw/refs/heads/main/appupdate/OKJack/OK影视Pro-手机版-3.9.3.apk",
+                "icon": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1730124020.81653464.png",
+                "version": "3.9.3|64位"
+            },
+            {
+                "name": "📺电视版",
+                "url": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/raw/refs/heads/main/appupdate/OKJack/OK影视Pro-电视版-64位-3.9.3.apk",
+                "icon": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1691551074.55475919.png",
+                "version": "3.9.3|64位"
+            },
+            {
+                "name": "📺电视版",
+                "url": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/raw/refs/heads/main/appupdate/OKJack/OK影视Pro-电视版-32位-3.9.3.apk",
+                "icon": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1691551074.55475919.png",
+                "version": "3.9.3|32位"
+            },
+            {
+                "name": "🖥️模拟器版",
+                "url": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/raw/refs/heads/main/appupdate/OKJack/OK影视Pro-手机版-模拟器-3.8.6.apk",
+                "icon": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1744870432.46423683.png",
+                "version": "3.9.3|64位"
+            }
+        ]
+    },
+    {
+        "name": "🐝FongMI影视",
+        "list": [
+            {
+                "name": "📺️电视版",
+                "url": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/raw/refs/heads/main/appupdate/FongMi/leanback-arm64_v8a_5.1.6.apk",
+                "icon": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1691551074.55475919.png",
+                "version": "5.1.6|64位(推荐)"
+            },
+            {
+                "name": "📺️电视版",
+                "url": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/raw/refs/heads/main/appupdate/FongMi/leanback-armeabi_v7a_5.1.6.apk",
+                "icon": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1691551074.55475919.png",
+                "version": "5.1.6|32位"
+            },
+            {
+                "name": "📱手机版",
+                "url": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/raw/refs/heads/main/appupdate/FongMi/mobile-arm64_v8a_5.1.6.apk",
+                "icon": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1730124020.81653464.png",
+                "version": "5.1.6|64位(推荐)"
+            },
+            {
+                "name": "📱手机版",
+                "url": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/raw/refs/heads/main/appupdate/FongMi/mobile-armeabi_v7a_5.1.6.apk",
+                "icon": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1730124020.81653464.png",
+                "version": "5.1.6|32位"
+            }
+        ]
+    },
+    {
+        "name": "🐹影视仓",
+        "list": [
+            {
+                "name": "📺电视版",
+                "url": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/raw/refs/heads/main/appupdate/YingShiCang/影视仓-6.1.7-32位.apk",
+                "icon": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1691551074.55475919.png",
+                "version": "6.1.7"
+            },
+            {
+                "name": "📺电视版",
+                "url": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/raw/refs/heads/main/appupdate/YingShiCang/影视仓-6.1.7-32位_海信版.apk",
+                "icon": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1691551074.55475919.png",
+                "version": "6.1.7|海信版"
+            },
+            {
+                "name": "📱手机版",
+                "url": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/raw/refs/heads/main/appupdate/YingShiCang/影视仓-3.2.3-64位.apk",
+                "icon": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1730124020.81653464.png",
+                "version": "3.2.3"
+            },
+            {
+                "name": "🎮️游戏版",
+                "url": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/raw/refs/heads/main/appupdate/YingShiCang/%E5%BD%B1%E8%A7%86%E4%BB%93_2.0.99.apk",
+                "icon": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1730124020.81653464.png",
+                "version": "2.0.99"
+            }
+        ]
+    },
+    {
+        "name": "🧐EasyBox",
+        "list": [
+            {
+                "name": "📱手机版",
+                "url": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/raw/refs/heads/main/appupdate/EasyBox/EasyBox_160_250420_sign.apk",
+                "icon": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1730124020.81653464.png",
+                "version": "1.6.0"
+            }
+        ]
+    },
+    {
+        "name": "🕋takagen99",
+        "list": [
+            {
+                "name": "📺️通用版",
+                "url": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/raw/refs/heads/main/appupdate/takagen99/TVBox_takagen99_20250706-1456-arm64-generic-python.apk",
+                "icon": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1691551074.55475919.png",
+                "version": "Python|64位(推荐)"
+            },
+            {
+                "name": "📺️通用版",
+                "url": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/raw/refs/heads/main/appupdate/takagen99/TVBox_takagen99_20250706-1456-arm64-generic-java.apk",
+                "icon": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1691551074.55475919.png",
+                "version": "Java|64位(推荐)"
+            },
+            {
+                "name": "📺️海信版",
+                "url": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/raw/refs/heads/main/appupdate/takagen99/TVBox_takagen99_20250706-1456-arm64-hisense-python.apk",
+                "icon": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1691551074.55475919.png",
+                "version": "Python|64位"
+            },
+            {
+                "name": "📺️海信版",
+                "url": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/raw/refs/heads/main/appupdate/takagen99/TVBox_takagen99_20250706-1456-arm64-hisense-java.apk",
+                "icon": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1691551074.55475919.png",
+                "version": "Java|64位"
+            },
+            {
+                "name": "📺️通用版",
+                "url": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/raw/refs/heads/main/appupdate/takagen99/TVBox_takagen99_20250706-1456-armeabi-generic-python.apk",
+                "icon": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1691551074.55475919.png",
+                "version": "Python|32位"
+            },
+            {
+                "name": "📺️通用版",
+                "url": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/raw/refs/heads/main/appupdate/takagen99/TVBox_takagen99_20250706-1456-armeabi-generic-java.apk",
+                "icon": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1691551074.55475919.png",
+                "version": "Java|32位"
+            },
+            {
+                "name": "📺️海信版",
+                "url": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/raw/refs/heads/main/appupdate/takagen99/TVBox_takagen99_20250706-1456-armeabi-hisense-python.apk",
+                "icon": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1691551074.55475919.png",
+                "version": "Python|32位"
+            },
+            {
+                "name": "📺️海信版",
+                "url": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/raw/refs/heads/main/appupdate/takagen99/TVBox_takagen99_20250706-1456-armeabi-hisense-java.apk",
+                "icon": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1691551074.55475919.png",
+                "version": "Java|32位"
+            }
+        ]
+    },
+    {
+        "name": "🐧q215613905",
+        "list": [
+            {
+                "name": "📺️Python版",
+                "url": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/raw/refs/heads/main/appupdate/q215613905/TVBox_q215613905_20251016-2311-python.apk",
+                "icon": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1691551074.55475919.png",
+                "version": "1016|(推荐)"
+            },
+            {
+                "name": "📺️Java版",
+                "url": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/raw/refs/heads/main/appupdate/q215613905/TVBox_q215613905_20251016-2311-java.apk",
+                "icon": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1691551074.55475919.png",
+                "version": "1016"
+            }
+        ]
+    },
+    {
+        "name": "🎧️洛雪音乐",
+        "list": [
+            {
+                "name": "🎧️正式版",
+                "url": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/raw/refs/heads/main/appupdate/LXMusic/lx-music-mobile-v1.7.1-arm64-v8a.apk",
+                "icon": "https://picx.zhimg.com/v2-2b83c5c7930ce75223b5b7df4f0b59d4.jpg",
+                "version": "1.7.1|64位"
+            },
+            {
+                "name": "🎧️正式版",
+                "url": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/raw/refs/heads/main/appupdate/LXMusic/lx-music-mobile-v1.7.1-armeabi-v7a.apk",
+                "icon": "https://picx.zhimg.com/v2-2b83c5c7930ce75223b5b7df4f0b59d4.jpg",
+                "version": "1.7.1|32位"
+            },
+            {
+                "name": "🎧️魔改版",
+                "url": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/raw/refs/heads/main/appupdate/LXMusic/ikun-music-mobile-v1.8.7-arm64-v8a.apk",
+                "icon": "https://picx.zhimg.com/v2-2b83c5c7930ce75223b5b7df4f0b59d4.jpg",
+                "version": "1.8.7|64位"
+            },
+            {
+                "name": "🎧️魔改版",
+                "url": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/raw/refs/heads/main/appupdate/LXMusic/ikun-music-mobile-v1.8.7-armeabi-v7a.apk",
+                "icon": "https://picx.zhimg.com/v2-2b83c5c7930ce75223b5b7df4f0b59d4.jpg",
+                "version": "1.8.7|32位"
+            },
+            {
+                "name": "🎧️Bate版",
+                "url": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/raw/refs/heads/main/appupdate/LXMusic/lx-music-mobile-v1.8.0-beta.0-arm64-v8a.apk",
+                "icon": "https://picx.zhimg.com/v2-2b83c5c7930ce75223b5b7df4f0b59d4.jpg",
+                "version": "1.8.0|64位"
+            },
+            {
+                "name": "🎧️Bate版",
+                "url": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/raw/refs/heads/main/appupdate/LXMusic/lx-music-mobile-v1.8.0-beta.0-armeabi-v7a.apk",
+                "icon": "https://picx.zhimg.com/v2-2b83c5c7930ce75223b5b7df4f0b59d4.jpg",
+                "version": "1.8.0|32位"
+            }
+        ]
+    },
+    {
+        "name": "🚗️车机软件",
+        "list": [
+            {
+                "name": "✈️️高德地图",
+                "url": "https://mapdownload.autonavi.com/apps/auto/manual/V850/AUTOBUILD_AutoCpp_Publish_8.5.0.600058_Auto_8.5.0.600058_android_armeabi_v7a_signed.apk?u=9380be7fe5e8d9479e333f1817a6d66e&",
+                "icon": "https://bkimg.cdn.bcebos.com/pic/7c1ed21b0ef41bd5ad6ec10ef18d96cb39dbb7fd9788?x-bce-process=image/format,f_auto",
+                "version": "车机版"
+            },
+            {
+                "name": "🐾百度地图",
+                "url": "https://downapp.baidu.com/original_new/322/1/1/1758895114104/BaiduMapForAuto.apk",
+                "icon": "https://bkimg.cdn.bcebos.com/pic/18d8bc3eb13533fa828b7f49158aea1f4134970aed18?x-bce-process=image/format,f_auto",
+                "version": "车机版"
+            }
+        ]
+    }
+]
