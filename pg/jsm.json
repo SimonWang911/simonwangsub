@@ -548,7 +548,7 @@
             "name": "云播｜影视",
             "type": 3,
             "api": "csp_Tvyb",
-            "ext": "http://www.viptv05.com",
+            "ext": "http://www.tvyb03.com",
             "jar": "http://simonwang.cn:7090/tvbox/Pizazz/spider.jar;md5;358c43604c8c9d349ff25c299f050bb9"
         },
         {
