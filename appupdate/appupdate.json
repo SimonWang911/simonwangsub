@@ -97,27 +97,27 @@
         "list": [
             {
                 "name": "📺️电视版",
-                "url": "https://gh-proxy.com/https://github.com/SimonWang911/simonwangsub/releases/download/2026.02.08-0823/FongMi-Leanback-64-5.1.7.apk",
+                "url": "https://gh-proxy.com/https://github.com/SimonWang911/simonwangsub/releases/download/2026.02.10-0547/FongMi-Leanback-64-5.1.8.apk",
                 "icon": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1691551074.55475919.png",
-                "version": "5.1.7|64位(推荐)"
+                "version": "5.1.8|64位(推荐)"
             },
             {
                 "name": "📺️电视版",
-                "url": "https://gh-proxy.com/https://github.com/SimonWang911/simonwangsub/releases/download/2026.02.08-0823/FongMi-Leanback-32-5.1.7.apk",
+                "url": "https://gh-proxy.com/https://github.com/SimonWang911/simonwangsub/releases/download/2026.02.10-0547/FongMi-Leanback-32-5.1.8.apk",
                 "icon": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1691551074.55475919.png",
-                "version": "5.1.7|32位"
+                "version": "5.1.8|32位"
             },
             {
                 "name": "📱手机版",
-                "url": "https://gh-proxy.com/https://github.com/SimonWang911/simonwangsub/releases/download/2026.02.08-0823/FongMi-Mobile-64-5.1.7.apk",
+                "url": "https://gh-proxy.com/https://github.com/SimonWang911/simonwangsub/releases/download/2026.02.10-0547/FongMi-Mobile-32-5.1.8.apk",
                 "icon": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1730124020.81653464.png",
-                "version": "5.1.7|64位(推荐)"
+                "version": "5.1.8|64位(推荐)"
             },
             {
                 "name": "📱手机版",
-                "url": "https://gh-proxy.com/https://github.com/SimonWang911/simonwangsub/releases/download/2026.02.08-0823/FongMi-Mobile-32-5.1.7.apk",
+                "url": "https://gh-proxy.com/https://github.com/SimonWang911/simonwangsub/releases/download/2026.02.10-0547/FongMi-Mobile-32-5.1.8.apk",
                 "icon": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1730124020.81653464.png",
-                "version": "5.1.7|32位"
+                "version": "5.1.8|32位"
             }
         ]
     },
