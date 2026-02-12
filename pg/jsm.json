@@ -191,20 +191,6 @@
             "jar": "http://simonwang.cn:7090/tvbox/Pizazz/spider.jar;md5;016ae9548ea27f5f48c95ec2b880c772"
         },
         {
-            "key": "旗星",
-            "name": "旗星｜APP",
-            "type": 3,
-            "searchable": 1,
-            "changeable": 1,
-            "api": "csp_AppGet",
-            "ext": {
-                "site": "http://ys.qist.top/dtym.txt",
-                "dataKey": "2SWSPFxugBLPPOKo",
-                "dataIv": "2SWSPFxugBLPPOKo"
-            },
-            "jar": "http://simonwang.cn:7090/tvbox/Pizazz/spider.jar;md5;016ae9548ea27f5f48c95ec2b880c772"
-        },
-        {
             "key": "缘梦",
             "name": "缘梦｜APP",
             "type": 3,
@@ -396,23 +382,6 @@
             "searchable": 1,
             "changeable": 1,
             "quickSearch": 1,
-            "filterable": 1,
-            "jar": "http://simonwang.cn:7090/tvbox/Pizazz/spider.jar;md5;016ae9548ea27f5f48c95ec2b880c772"
-        },
-        {
-            "key": "木兮影视",
-            "name": "木兮｜影视",
-            "type": 3,
-            "api": "csp_Symx",
-            "ext": "https://film.symx.club",
-            "jar": "http://simonwang.cn:7090/tvbox/Pizazz/spider.jar;md5;016ae9548ea27f5f48c95ec2b880c772"
-        },
-        {
-            "key": "零度影视",
-            "name": "零度｜影视",
-            "type": 3,
-            "api": "csp_Lingdu",
-            "searchable": 1,
             "filterable": 1,
             "jar": "http://simonwang.cn:7090/tvbox/Pizazz/spider.jar;md5;016ae9548ea27f5f48c95ec2b880c772"
         },
