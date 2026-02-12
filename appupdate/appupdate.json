@@ -83,12 +83,6 @@
                 "url": "https://gh-proxy.com/https://github.com/SimonWang911/simonwangsub/releases/download/2026.02.12-0756/OKPro-TV-32bit-5.0.0.apk",
                 "icon": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1691551074.55475919.png",
                 "version": "5.0.0|32位"
-            },
-            {
-                "name": "🖥️模拟器版",
-                "url": "https://gh-proxy.com/https://github.com/SimonWang911/simonwangsub/releases/download/2026.02.12-0756/OKPro-Emulator-5.0.0.apk",
-                "icon": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1744870432.46423683.png",
-                "version": "5.0.0|64位"
             }
         ]
     },
@@ -147,17 +141,6 @@
                 "url": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/raw/refs/heads/main/appupdate/YingShiCang/%E5%BD%B1%E8%A7%86%E4%BB%93_2.0.99.apk",
                 "icon": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1730124020.81653464.png",
                 "version": "2.0.99"
-            }
-        ]
-    },
-    {
-        "name": "🧐EasyBox",
-        "list": [
-            {
-                "name": "📱手机版",
-                "url": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/raw/refs/heads/main/appupdate/EasyBox/EasyBox_160_250420_sign.apk",
-                "icon": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1730124020.81653464.png",
-                "version": "1.6.0"
             }
         ]
     },
