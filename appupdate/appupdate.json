@@ -149,51 +149,51 @@
         "list": [
             {
                 "name": "📺️通用版",
-                "url": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/raw/refs/heads/main/appupdate/takagen99/TVBox_takagen99_20250706-1456-arm64-generic-python.apk",
+                "url": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/raw/refs/heads/main/appupdate/takagen99/TVBox_takagen99_20260213-0733-arm64-generic-python.apk",
                 "icon": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1691551074.55475919.png",
-                "version": "Python|64位(推荐)"
+                "version": "Python-260213|64位"
             },
             {
                 "name": "📺️通用版",
-                "url": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/raw/refs/heads/main/appupdate/takagen99/TVBox_takagen99_20250706-1456-arm64-generic-java.apk",
+                "url": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/raw/refs/heads/main/appupdate/takagen99/TVBox_takagen99_20260213-0733-arm64-generic-java.apk",
                 "icon": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1691551074.55475919.png",
-                "version": "Java|64位(推荐)"
+                "version": "Java-260213|64位"
             },
             {
                 "name": "📺️海信版",
-                "url": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/raw/refs/heads/main/appupdate/takagen99/TVBox_takagen99_20250706-1456-arm64-hisense-python.apk",
+                "url": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/raw/refs/heads/main/appupdate/takagen99/TVBox_takagen99_20260213-0733-arm64-hisense-python.apk",
                 "icon": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1691551074.55475919.png",
-                "version": "Python|64位"
+                "version": "Python-260213|64位"
             },
             {
                 "name": "📺️海信版",
-                "url": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/raw/refs/heads/main/appupdate/takagen99/TVBox_takagen99_20250706-1456-arm64-hisense-java.apk",
+                "url": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/raw/refs/heads/main/appupdate/takagen99/TVBox_takagen99_20260213-0733-arm64-hisense-java.apk",
                 "icon": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1691551074.55475919.png",
-                "version": "Java|64位"
+                "version": "Java-260213|64位"
             },
             {
                 "name": "📺️通用版",
-                "url": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/raw/refs/heads/main/appupdate/takagen99/TVBox_takagen99_20250706-1456-armeabi-generic-python.apk",
+                "url": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/raw/refs/heads/main/appupdate/takagen99/TVBox_takagen99_20260213-0733-armeabi-generic-python.apk",
                 "icon": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1691551074.55475919.png",
-                "version": "Python|32位"
+                "version": "Python-260213|32位"
             },
             {
                 "name": "📺️通用版",
-                "url": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/raw/refs/heads/main/appupdate/takagen99/TVBox_takagen99_20250706-1456-armeabi-generic-java.apk",
+                "url": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/raw/refs/heads/main/appupdate/takagen99/TVBox_takagen99_20260213-0733-armeabi-generic-java.apk",
                 "icon": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1691551074.55475919.png",
-                "version": "Java|32位"
+                "version": "Java-260213|32位"
             },
             {
                 "name": "📺️海信版",
-                "url": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/raw/refs/heads/main/appupdate/takagen99/TVBox_takagen99_20250706-1456-armeabi-hisense-python.apk",
+                "url": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/raw/refs/heads/main/appupdate/takagen99/TVBox_takagen99_20260213-0733-armeabi-hisense-python.apk",
                 "icon": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1691551074.55475919.png",
-                "version": "Python|32位"
+                "version": "Python-260213|32位"
             },
             {
                 "name": "📺️海信版",
-                "url": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/raw/refs/heads/main/appupdate/takagen99/TVBox_takagen99_20250706-1456-armeabi-hisense-java.apk",
+                "url": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/raw/refs/heads/main/appupdate/takagen99/TVBox_takagen99_20260213-0733-armeabi-hisense-java.apk",
                 "icon": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1691551074.55475919.png",
-                "version": "Java|32位"
+                "version": "Java-260213|32位"
             }
         ]
     },
@@ -260,13 +260,13 @@
         "list": [
             {
                 "name": "✈️️高德地图",
-                "url": "https://mapdownload.autonavi.com/apps/auto/manual/V850/AUTOBUILD_AutoCpp_Publish_8.5.0.600058_Auto_8.5.0.600058_android_armeabi_v7a_signed.apk?u=9380be7fe5e8d9479e333f1817a6d66e&",
+                "url": "https://mapdownload.autonavi.com/apps/auto/manual/V910/Auto_9.1.0.600087_release_signed.apk?u=8bea7e865df96371bb787973594d0e4b&",
                 "icon": "https://bkimg.cdn.bcebos.com/pic/7c1ed21b0ef41bd5ad6ec10ef18d96cb39dbb7fd9788?x-bce-process=image/format,f_auto",
                 "version": "车机版"
             },
             {
                 "name": "🐾百度地图",
-                "url": "https://downapp.baidu.com/original_new/322/1/1/1758895114104/BaiduMapForAuto.apk",
+                "url": "https://downapp.baidu.com/original_new/322/1/1/1770948565056/BaiduMapForAuto.apk",
                 "icon": "https://bkimg.cdn.bcebos.com/pic/18d8bc3eb13533fa828b7f49158aea1f4134970aed18?x-bce-process=image/format,f_auto",
                 "version": "车机版"
             }
