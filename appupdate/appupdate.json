@@ -115,6 +115,21 @@
             }
         ]
     },
+        "name": "🌤️云影空蒙",
+        "list": [
+            {
+                "name": "📺64位版本",
+                "url": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/raw/refs/heads/main/appupdate/YingShiCang/影视仓-6.1.7-32位.apk",
+                "icon": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1691551074.55475919.png",
+                "version": "6.1.7"
+            },
+            {
+                "name": "📺32位版本",
+                "url": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/raw/refs/heads/main/appupdate/YingShiCang/影视仓-6.1.7-32位_海信版.apk",
+                "icon": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1691551074.55475919.png",
+                "version": "6.1.7"
+            }
+    },
     {
         "name": "🐹影视仓",
         "list": [
