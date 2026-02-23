@@ -166,49 +166,49 @@
         "list": [
             {
                 "name": "📺️Python版",
-                "url": "https://gh-proxy.com/https://github.com/SimonWang911/simonwangsub/releases/download/2026.02.23-2147/TVBox_takagen99_20260217-1327-armeabi-generic-python.apk",
+                "url": "https://gh-proxy.com/https://github.com/SimonWang911/simonwangsub/releases/download/2026.02.23-2204/TVBox_takagen99_20260217-1327-armeabi-generic-python.apk",
                 "icon": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1691551074.55475919.png",
                 "version": "20260217-1327|32位"
             },
             {
                 "name": "📺️Java版",
-                "url": "https://gh-proxy.com/https://github.com/SimonWang911/simonwangsub/releases/download/2026.02.23-2147/TVBox_takagen99_20260217-1327-armeabi-generic-java.apk",
+                "url": "https://gh-proxy.com/https://github.com/SimonWang911/simonwangsub/releases/download/2026.02.23-2204/TVBox_takagen99_20260217-1327-armeabi-generic-java.apk",
                 "icon": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1691551074.55475919.png",
                 "version": "20260217-1327|32位"
             },
             {
                 "name": "📺Python海信版",
-                "url": "https://gh-proxy.com/https://github.com/SimonWang911/simonwangsub/releases/download/2026.02.23-2147/TVBox_takagen99_20260217-1327-armeabi-hisense-python.apk",
+                "url": "https://gh-proxy.com/https://github.com/SimonWang911/simonwangsub/releases/download/2026.02.23-2204/TVBox_takagen99_20260217-1327-armeabi-hisense-python.apk",
                 "icon": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1691551074.55475919.png",
                 "version": "20260217-1327|32位"
             },
             {
                 "name": "📺️Java海信版",
-                "url": "https://gh-proxy.com/https://github.com/SimonWang911/simonwangsub/releases/download/2026.02.23-2147/TVBox_takagen99_20260217-1327-armeabi-hisense-java.apk",
+                "url": "https://gh-proxy.com/https://github.com/SimonWang911/simonwangsub/releases/download/2026.02.23-2204/TVBox_takagen99_20260217-1327-armeabi-hisense-java.apk",
                 "icon": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1691551074.55475919.png",
                 "version": "20260217-1327|32位"
             },
             {
                 "name": "📺️Python版",
-                "url": "https://gh-proxy.com/https://github.com/SimonWang911/simonwangsub/releases/download/2026.02.23-2147/TVBox_takagen99_20260217-1327-armeabi-generic-python.apk",
+                "url": "https://gh-proxy.com/https://github.com/SimonWang911/simonwangsub/releases/download/2026.02.23-2204/TVBox_takagen99_20260217-1327-armeabi-generic-python.apk",
                 "icon": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1691551074.55475919.png",
                 "version": "20260217-1327|32位"
             },
             {
                 "name": "📺️Java版",
-                "url": "https://gh-proxy.com/https://github.com/SimonWang911/simonwangsub/releases/download/2026.02.23-2147/TVBox_takagen99_20260217-1327-armeabi-generic-java.apk",
+                "url": "https://gh-proxy.com/https://github.com/SimonWang911/simonwangsub/releases/download/2026.02.23-2204/TVBox_takagen99_20260217-1327-armeabi-generic-java.apk",
                 "icon": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1691551074.55475919.png",
                 "version": "20260217-1327|32位"
             },
             {
                 "name": "📺️Python海信版",
-                "url": "https://gh-proxy.com/https://github.com/SimonWang911/simonwangsub/releases/download/2026.02.23-2147/TVBox_takagen99_20260217-1327-armeabi-hisense-python.apk",
+                "url": "https://gh-proxy.com/https://github.com/SimonWang911/simonwangsub/releases/download/2026.02.23-2204/TVBox_takagen99_20260217-1327-armeabi-hisense-python.apk",
                 "icon": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1691551074.55475919.png",
                 "version": "20260217-1327|32位"
             },
             {
                 "name": "📺️Java海信版",
-                "url": "https://gh-proxy.com/https://github.com/SimonWang911/simonwangsub/releases/download/2026.02.23-2147/TVBox_takagen99_20260217-1327-armeabi-hisense-java.apk",
+                "url": "https://gh-proxy.com/https://github.com/SimonWang911/simonwangsub/releases/download/2026.02.23-2204/TVBox_takagen99_20260217-1327-armeabi-hisense-java.apk",
                 "icon": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1691551074.55475919.png",
                 "version": "20260217-1327|32位"
             }
@@ -273,7 +273,7 @@
         ]
     },
     {
-        "name": "🚗️车机软件",
+        "name": "🚗️车机导航软件",
         "list": [
             {
                 "name": "✈️️高德地图",
