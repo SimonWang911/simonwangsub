@@ -137,21 +137,21 @@
         "list": [
             {
                 "name": "📺电视版",
-                "url": "https://wget.la/github.com/SimonWang911/simonwangsub/raw/refs/heads/main/appupdate/YingShiCang/影视仓-6.1.7-32位.apk",
+                "url": "https://wget.la/github.com/SimonWang911/simonwangsub/raw/refs/heads/main/appupdate/YingShiCang/影视仓_6.1.8_opt.apk",
                 "icon": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1691551074.55475919.png",
-                "version": "6.1.7"
-            },
-            {
-                "name": "📺电视版",
-                "url": "https://wget.la/github.com/SimonWang911/simonwangsub/raw/refs/heads/main/appupdate/YingShiCang/影视仓-6.1.7-32位_海信版.apk",
-                "icon": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1691551074.55475919.png",
-                "version": "6.1.7|海信版"
+                "version": "6.1.8"
             },
             {
                 "name": "📱手机版",
-                "url": "https://wget.la/github.com/SimonWang911/simonwangsub/raw/refs/heads/main/appupdate/YingShiCang/影视仓-3.2.3-64位.apk",
+                "url": "https://wget.la/github.com/SimonWang911/simonwangsub/raw/refs/heads/main/appupdate/YingShiCang/影视仓_3.2.7.1.apk",
                 "icon": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1730124020.81653464.png",
-                "version": "3.2.3"
+                "version": "3.2.7.1"
+            },
+            {
+                "name": "📱手机 Pro 版",
+                "url": "https://wget.la/github.com/SimonWang911/simonwangsub/raw/refs/heads/main/appupdate/YingShiCang/影视仓Pro_1.0.1修复.apk",
+                "icon": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1730124020.81653464.png",
+                "version": "1.0.1"
             },
             {
                 "name": "🎮️游戏版",
