@@ -81,6 +81,21 @@
             "jar": "http://simonwang.cn:7090/tvbox/Pizazz/spider.jar;md5;874d3b515133e1e0db07ba935b9dad4d"
         },
         {
+            "key": "老鹰",
+            "name": "老鹰｜APP",
+            "type": 3,
+            "api": "csp_AppQi",
+            "searchable": 1,
+            "changeable": 1,
+            "ext": {
+                "site": "https://maotouyinghubei.oss-cn-wuhan-lr.aliyuncs.com/maotouyinghb.txt",
+                "dataKey": "zxPtEUDGVllIUhDB",
+                "dataIv": "zxPtEUDGVllIUhDB",
+                "ua": "okhttp/3.10.0"
+            },
+            "jar": "http://simonwang.cn:7090/tvbox/Pizazz/spider.jar;md5;874d3b515133e1e0db07ba935b9dad4d"
+        },
+        {
             "key": "顾我",
             "name": "顾我｜APP",
             "type": 3,
