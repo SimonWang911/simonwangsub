@@ -4,25 +4,25 @@
         "list": [
             {
                 "name": "📺️电视版",
-                "url": "https://wget.la/github.com/SimonWang911/simonwangsub/releases/download/2026.03.02-0126/leanback-arm64_v8a-3.7.2.apk",
+                "url": "https://wget.la/github.com/SimonWang911/simonwangsub/releases/download/2026.03.02-0149/leanback-arm64_v8a-3.7.2.apk",
                 "icon": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1691551074.55475919.png",
                 "version": "3.7.2|64位(推荐)"
             },
             {
                 "name": "📺️电视版",
-                "url": "https://wget.la/github.com/SimonWang911/simonwangsub/releases/download/2026.03.02-0126/leanback-armeabi_v7a-3.7.2.apk",
+                "url": "https://wget.la/github.com/SimonWang911/simonwangsub/releases/download/2026.03.02-0149/leanback-armeabi_v7a-3.7.2.apk",
                 "icon": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1691551074.55475919.png",
                 "version": "3.7.2|32位"
             },
             {
                 "name": "📱手机版",
-                "url": "https://wget.la/github.com/SimonWang911/simonwangsub/releases/download/2026.03.02-0126/mobile-arm64_v8a-3.7.2.apk",
+                "url": "https://wget.la/github.com/SimonWang911/simonwangsub/releases/download/2026.03.02-0149/mobile-arm64_v8a-3.7.2.apk",
                 "icon": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1730124020.81653464.png",
                 "version": "3.7.2|64位(推荐)"
             },
             {
                 "name": "📱手机版",
-                "url": "https://wget.la/github.com/SimonWang911/simonwangsub/releases/download/2026.03.02-0126/mobile-armeabi_v7a-3.7.2.apk",
+                "url": "https://wget.la/github.com/SimonWang911/simonwangsub/releases/download/2026.03.02-0149/mobile-armeabi_v7a-3.7.2.apk",
                 "icon": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1730124020.81653464.png",
                 "version": "3.7.2|32位"
             }
@@ -33,15 +33,15 @@
         "list": [
             {
                 "name": "📺️电视版",
-                "url": "https://wget.la/github.com/SimonWang911/simonwangsub/releases/download/2026.02.22-1442/leanback-arm64_v8a-3.6.9.apk",
+                "url": "https://wget.la/github.com/SimonWang911/simonwangsub/releases/download/2026.03.02-0149/leanback-arm64_v8a-3.7.2.apk",
                 "icon": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1691551074.55475919.png",
-                "version": "3.6.9|64位(推荐)"
+                "version": "3.7.2|64位(推荐)"
             },
             {
                 "name": "📺️电视版",
-                "url": "https://wget.la/github.com/SimonWang911/simonwangsub/releases/download/2026.02.22-1442/leanback-armeabi_v7a-3.6.9.apk",
+                "url": "https://wget.la/github.com/SimonWang911/simonwangsub/releases/download/2026.03.02-0149/leanback-armeabi_v7a-3.7.2.apk",
                 "icon": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1691551074.55475919.png",
-                "version": "3.6.9|32位"
+                "version": "3.7.2|32位"
             },
             {
                 "name": "📺️电视版",
@@ -51,15 +51,15 @@
             },
             {
                 "name": "📱手机版",
-                "url": "https://wget.la/github.com/SimonWang911/simonwangsub/releases/download/2026.02.22-1442/mobile-arm64_v8a-3.6.9.apk",
+                "url": "https://wget.la/github.com/SimonWang911/simonwangsub/releases/download/2026.03.02-0149/mobile-arm64_v8a-3.7.2.apk",
                 "icon": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1730124020.81653464.png",
-                "version": "3.6.9|64位(推荐)"
+                "version": "3.7.2|64位(推荐)"
             },
             {
                 "name": "📱手机版",
-                "url": "https://wget.la/github.com/SimonWang911/simonwangsub/releases/download/2026.02.22-1442/mobile-armeabi_v7a-3.6.9.apk",
+                "url": "https://wget.la/github.com/SimonWang911/simonwangsub/releases/download/2026.03.02-0149/mobile-armeabi_v7a-3.7.2.apk",
                 "icon": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1730124020.81653464.png",
-                "version": "3.6.9|32位"
+                "version": "3.7.2|32位"
             }
         ]
     },
