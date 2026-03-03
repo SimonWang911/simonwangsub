@@ -137,23 +137,6 @@
             "jar": "http://simonwang.cn:7090/tvbox/Pizazz/spider.jar;md5;8c6bea8e10ab2e6fe32bb45e928fb27d"
         },
         {
-            "key": "小猪",
-            "name": "小猪｜APP",
-            "type": 3,
-            "api": "csp_AppQi",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": {
-                "site": "https://tiantangyoulu.oss-cn-beijing.aliyuncs.com/aoteman.txt",
-                "dataKey": "lp3d4t53y9t5db8y",
-                "dataIv": "lp3d4t53y9t5db8y",
-                "search": "searchLisl3",
-                "init": "initV122",
-                "ua": "okhttp/3.10.0"
-            },
-            "jar": "http://simonwang.cn:7090/tvbox/Pizazz/spider.jar;md5;8c6bea8e10ab2e6fe32bb45e928fb27d"
-        },
-        {
             "key": "鲸鱼",
             "name": "鲸鱼｜APP",
             "type": 3,
@@ -197,6 +180,93 @@
                 "site": "https://uututv-1319209748.cos.ap-shanghai.myqcloud.com/uutuv4.txt",
                 "dataKey": "UrWKPnmQWJA8AQzd",
                 "dataIv": "UrWKPnmQWJA8AQzd",
+                "ua": "okhttp/3.10.0"
+            },
+            "jar": "http://simonwang.cn:7090/tvbox/Pizazz/spider.jar;md5;8c6bea8e10ab2e6fe32bb45e928fb27d"
+        },
+        {
+            "key": "蓝鹰",
+            "name": "蓝鹰｜APP",
+            "type": 3,
+            "api": "csp_AppQi",
+            "searchable": 1,
+            "changeable": 1,
+            "ext": {
+                "site": "https://lanyinghz.oss-cn-hangzhou.aliyuncs.com/lanyingxmy.txt",
+                "dataKey": "ca94b06ca359d80e",
+                "dataIv": "ca94b06ca359d80e",
+                "init": "initV120",
+                "ua": "okhttp/3.10.0"
+            },
+            "jar": "http://simonwang.cn:7090/tvbox/Pizazz/spider.jar;md5;8c6bea8e10ab2e6fe32bb45e928fb27d"
+        },
+        {
+            "key": "段友",
+            "name": "段友｜APP",
+            "type": 3,
+            "api": "csp_AppGet",
+            "searchable": 1,
+            "changeable": 1,
+            "ext": {
+                "url": "https://shangjihuoke.com",
+                "dataKey": "8E2DC386FD452D05",
+                "dataIv": "8E2DC386FD452D05"
+            },
+            "jar": "http://simonwang.cn:7090/tvbox/Pizazz/spider.jar;md5;8c6bea8e10ab2e6fe32bb45e928fb27d"
+        },
+        {
+            "key": "黑猫",
+            "name": "黑猫｜APP",
+            "type": 3,
+            "api": "csp_AppGet",
+            "searchable": 1,
+            "changeable": 1,
+            "ext": {
+                "url": "http://app1-0-0.87333.cc",
+                "dataKey": "VwsHxkCViDXEExWa",
+                "dataIv": "VwsHxkCViDXEExWa"
+            },
+            "jar": "http://simonwang.cn:7090/tvbox/Pizazz/spider.jar;md5;8c6bea8e10ab2e6fe32bb45e928fb27d"
+        },
+        {
+            "key": "灵虎",
+            "name": "灵虎｜APP",
+            "type": 3,
+            "api": "csp_AppGet",
+            "searchable": 1,
+            "changeable": 1,
+            "ext": {
+                "site": "https://bind.315999.xyz/89.txt",
+                "dataKey": "#getapp@TMD@2025",
+                "dataIv": "#getapp@TMD@2025"
+            },
+            "jar": "http://simonwang.cn:7090/tvbox/Pizazz/spider.jar;md5;8c6bea8e10ab2e6fe32bb45e928fb27d"
+        },
+        {
+            "key": "驿站",
+            "name": "驿站｜APP",
+            "type": 3,
+            "api": "csp_AppGet",
+            "searchable": 1,
+            "changeable": 1,
+            "ext": {
+                "site": "https://dyyztvappapigoodgx.68.gy:12689/ciwk28vu38io8/apiurl.txt",
+                "dataKey": "dyyztvapiappyyds",
+                "dataIv": "dyyztvapiappyyds"
+            },
+            "jar": "http://simonwang.cn:7090/tvbox/Pizazz/spider.jar;md5;8c6bea8e10ab2e6fe32bb45e928fb27d"
+        },
+        {
+            "key": "缘梦",
+            "name": "缘梦｜APP",
+            "type": 3,
+            "api": "csp_AppGet",
+            "searchable": 1,
+            "changeable": 1,
+            "ext": {
+                "url": "http://165.99.42.137:5432",
+                "dataKey": "1234567890987654",
+                "dataIv": "1234567890987654",
                 "ua": "okhttp/3.10.0"
             },
             "jar": "http://simonwang.cn:7090/tvbox/Pizazz/spider.jar;md5;8c6bea8e10ab2e6fe32bb45e928fb27d"
@@ -357,7 +427,7 @@
             "changeable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "类型": "短剧",
+            "genre": "shortdrama",
             "jar": "http://simonwang.cn:7090/tvbox/Pizazz/spider.jar;md5;8c6bea8e10ab2e6fe32bb45e928fb27d"
         },
         {
@@ -369,7 +439,7 @@
             "changeable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "类型": "短剧",
+            "genre": "shortdrama",
             "jar": "http://simonwang.cn:7090/tvbox/Pizazz/spider.jar;md5;8c6bea8e10ab2e6fe32bb45e928fb27d"
         },
         {
@@ -381,7 +451,7 @@
             "changeable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "类型": "短剧",
+            "genre": "shortdrama",
             "jar": "http://simonwang.cn:7090/tvbox/Pizazz/spider.jar;md5;8c6bea8e10ab2e6fe32bb45e928fb27d"
         },
         {
@@ -393,7 +463,7 @@
             "changeable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "类型": "短剧",
+            "genre": "shortdrama",
             "jar": "http://simonwang.cn:7090/tvbox/Pizazz/spider.jar;md5;8c6bea8e10ab2e6fe32bb45e928fb27d"
         },
         {
@@ -405,7 +475,7 @@
             "changeable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "类型": "短剧",
+            "genre": "shortdrama",
             "jar": "http://simonwang.cn:7090/tvbox/Pizazz/spider.jar;md5;8c6bea8e10ab2e6fe32bb45e928fb27d"
         },
         {
@@ -417,7 +487,7 @@
             "changeable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "类型": "短剧",
+            "genre": "shortdrama",
             "jar": "http://simonwang.cn:7090/tvbox/Pizazz/spider.jar;md5;8c6bea8e10ab2e6fe32bb45e928fb27d"
         },
         {
