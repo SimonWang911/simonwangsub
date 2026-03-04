@@ -4,25 +4,25 @@
         "list": [
             {
                 "name": "📺️电视版",
-                "url": "https://wget.la/github.com/SimonWang911/simonwangsub/releases/download/2026.03.04-0715/leanback-arm64_v8a-3.7.3.apk",
+                "url": "https://wget.la/github.com/SimonWang911/simonwangsub/releases/download/2026.03.04-0759/leanback-arm64_v8a-3.7.3.apk",
                 "icon": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1691551074.55475919.png",
                 "version": "3.7.3|64位"
             },
             {
                 "name": "📺️电视版",
-                "url": "https://wget.la/github.com/SimonWang911/simonwangsub/releases/download/2026.03.04-0715/leanback-armeabi_v7a-3.7.3.apk",
+                "url": "https://wget.la/github.com/SimonWang911/simonwangsub/releases/download/2026.03.04-0759/leanback-armeabi_v7a-3.7.3.apk",
                 "icon": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1691551074.55475919.png",
                 "version": "3.7.3|32位"
             },
             {
                 "name": "📱手机版",
-                "url": "https://wget.la/github.com/SimonWang911/simonwangsub/releases/download/2026.03.04-0715/mobile-arm64_v8a-3.7.3.apk",
+                "url": "https://wget.la/github.com/SimonWang911/simonwangsub/releases/download/2026.03.04-0759/mobile-arm64_v8a-3.7.3.apk",
                 "icon": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1730124020.81653464.png",
                 "version": "3.7.3|64位"
             },
             {
                 "name": "📱手机版",
-                "url": "https://wget.la/github.com/SimonWang911/simonwangsub/releases/download/2026.03.04-0715/mobile-armeabi_v7a-3.7.3.apk",
+                "url": "https://wget.la/github.com/SimonWang911/simonwangsub/releases/download/2026.03.04-0759/mobile-armeabi_v7a-3.7.3.apk",
                 "icon": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1730124020.81653464.png",
                 "version": "3.7.3|32位"
             }
@@ -33,15 +33,15 @@
         "list": [
             {
                 "name": "📺️电视版",
-                "url": "https://wget.la/github.com/SimonWang911/simonwangsub/releases/download/latest/leanback-arm64_v8a.apk",
+                "url": "https://wget.la/github.com/SimonWang911/simonwangsub/releases/download/2026.03.04-0759/leanback-arm64_v8a-3.7.3.apk",
                 "icon": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1691551074.55475919.png",
-                "version": "0.0.0|64位"
+                "version": "3.7.3|64位"
             },
             {
                 "name": "📺️电视版",
-                "url": "https://wget.la/github.com/SimonWang911/simonwangsub/releases/download/latest/leanback-armeabi_v7a.apk",
+                "url": "https://wget.la/github.com/SimonWang911/simonwangsub/releases/download/2026.03.04-0759/leanback-armeabi_v7a-3.7.3.apk",
                 "icon": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1691551074.55475919.png",
-                "version": "0.0.0|32位"
+                "version": "3.7.3|32位"
             },
             {
                 "name": "📺️海信专版",
@@ -51,15 +51,15 @@
             },
             {
                 "name": "📱手机版",
-                "url": "https://wget.la/github.com/SimonWang911/simonwangsub/releases/download/latest/mobile-arm64_v8a.apk",
+                "url": "https://wget.la/github.com/SimonWang911/simonwangsub/releases/download/2026.03.04-0759/mobile-arm64_v8a-3.7.3.apk",
                 "icon": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1730124020.81653464.png",
-                "version": "0.0.0|64位"
+                "version": "3.7.3|64位"
             },
             {
                 "name": "📱手机版",
-                "url": "https://wget.la/github.com/SimonWang911/simonwangsub/releases/download/latest/mobile-armeabi_v7a.apk",
+                "url": "https://wget.la/github.com/SimonWang911/simonwangsub/releases/download/2026.03.04-0759/mobile-armeabi_v7a-3.7.3.apk",
                 "icon": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1730124020.81653464.png",
-                "version": "0.0.0|32位"
+                "version": "3.7.3|32位"
             }
         ]
     },
