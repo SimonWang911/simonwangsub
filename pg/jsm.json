@@ -119,6 +119,36 @@
             "jar": "http://simonwang.cn:7090/tvbox/Pizazz/spider.jar;md5;8c6bea8e10ab2e6fe32bb45e928fb27d"
         },
         {
+            "key": "爱影",
+            "name": "爱影｜APP",
+            "type": 3,
+            "api": "csp_AppQi",
+            "searchable": 1,
+            "changeable": 1,
+            "ext": {
+                "site": "https://aysappto.oss-cn-chengdu.aliyuncs.com/q19.txt",
+                "dataKey": "fff32466kkfff616",
+                "dataIv": "fff32466kkfff616",
+                "ua": "okhttp/3.10.0"
+            },
+            "jar": "http://simonwang.cn:7090/tvbox/Pizazz/spider.jar;md5;8c6bea8e10ab2e6fe32bb45e928fb27d"
+        },
+        {
+            "key": "小猪",
+            "name": "小猪｜APP",
+            "type": 3,
+            "api": "csp_AppQi",
+            "searchable": 1,
+            "changeable": 1,
+            "ext": {
+                "site": "https://tiantangwulu.oss-cn-shanghai.aliyuncs.com/xinjian.txt",
+                "dataKey": "k5t2fp3h9d25hn9y",
+                "dataIv": "k5t2fp3h9d25hn9y",
+                "ua": "okhttp/3.10.0"
+            },
+            "jar": "http://simonwang.cn:7090/tvbox/Pizazz/spider.jar;md5;8c6bea8e10ab2e6fe32bb45e928fb27d"
+        },
+        {
             "key": "金牌",
             "name": "金牌｜APP",
             "type": 3,
