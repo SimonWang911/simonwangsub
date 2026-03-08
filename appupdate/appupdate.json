@@ -178,9 +178,9 @@
         "list": [
             {
                 "name": "📱️Android版",
-                "url": "https://wget.la/github.com/SimonWang911/simonwangsub/releases/download/2026.03.07-2142/PeekPili_android_1.2.1.2_arm64.apk",
+                "url": "https://wget.la/github.com/SimonWang911/simonwangsub/releases/download/2026.03.08-0945/PeekPili_android_1.2.1.2_arm64.apk",
                 "icon": "https://wget.la/github.com/ingriddaleusag-dotcom/PeekPiliRelease/blob/main/assets/images/logo/logo.png",
-                "version": "V1.2.1"
+                "version": "1.2.1+2"
             }
         ]
     },
