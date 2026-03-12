@@ -266,6 +266,20 @@
             "jar": "http://simonwang.cn:7090/tvbox/Pizazz/spider.jar;md5;8c6bea8e10ab2e6fe32bb45e928fb27d"
         },
         {
+            "key": "仓鼠",
+            "name": "仓鼠｜APP",
+            "type": 3,
+            "api": "csp_AppGet",
+            "searchable": 1,
+            "changeable": 1,
+            "ext": {
+                "url": "https://cs450appcms.cs4k.top",
+                "dataKey": "cD7wZ7iY6qN3sU1z",
+                "dataIv": "cD7wZ7iY6qN3sU1z"
+            },
+            "jar": "http://simonwang.cn:7090/tvbox/Pizazz/spider.jar;md5;8c6bea8e10ab2e6fe32bb45e928fb27d"
+        },
+        {
             "key": "茉莉",
             "name": "茉莉｜APP",
             "type": 3,
