@@ -426,7 +426,7 @@
             "jar": "http://simonwang.cn:7090/tvbox/Pizazz/spider.jar;md5;8c6bea8e10ab2e6fe32bb45e928fb27d"
         },
         {
-            "key": "碎片",
+            "key": "碎片短剧",
             "name": "碎片｜短剧",
             "type": 3,
             "api": "csp_SuipianDJ",
