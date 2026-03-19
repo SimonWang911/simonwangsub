@@ -88,7 +88,35 @@
             "searchable": 1,
             "changeable": 1,
             "api": "csp_AppFox",
-            "ext": "http://app.hktvyb.cc",
+            "ext": {
+                "host": "http://app.hktvyb.cc"
+            },
+            "jar": "http://simonwang.cn:7090/tvbox/Pizazz/spider.jar;md5;7b9fbe266c8dad16fb99a9612695c4d3"
+        },
+        {
+            "key": "火猫",
+            "name": "火猫｜APP",
+            "type": 3,
+            "searchable": 1,
+            "changeable": 1,
+            "api": "csp_AppFox",
+            "ext": {
+                "host": "https://cunchu8.obs.cn-north-4.myhuaweicloud.com/fox.json"
+            },
+            "jar": "http://simonwang.cn:7090/tvbox/Pizazz/spider.jar;md5;7b9fbe266c8dad16fb99a9612695c4d3"
+        },
+        {
+            "key": "云朵",
+            "name": "云朵｜APP",
+            "type": 3,
+            "api": "csp_AppGet",
+            "searchable": 1,
+            "changeable": 1,
+            "ext": {
+                "url": "https://yd4kcms.yd4k.top",
+                "dataKey": "Tpmm9FD99lJ8Dexa",
+                "dataIv": "Tpmm9FD99lJ8Dexa"
+            },
             "jar": "http://simonwang.cn:7090/tvbox/Pizazz/spider.jar;md5;7b9fbe266c8dad16fb99a9612695c4d3"
         },
         {
@@ -260,6 +288,20 @@
                 "url": "https://qjappcms410.xy4k.com",
                 "dataKey": "mC6kG4mI1uM8tS4o",
                 "dataIv": "mC6kG4mI1uM8tS4o"
+            },
+            "jar": "http://simonwang.cn:7090/tvbox/Pizazz/spider.jar;md5;7b9fbe266c8dad16fb99a9612695c4d3"
+        },
+        {
+            "key": "不错",
+            "name": "不错｜APP",
+            "type": 3,
+            "searchable": 1,
+            "changeable": 1,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "https://zbc4kmcs.zbc4k.app",
+                "dataKey": "vE4kR7cF6jS6jH7a",
+                "dataIv": "vE4kR7cF6jS6jH7a"
             },
             "jar": "http://simonwang.cn:7090/tvbox/Pizazz/spider.jar;md5;7b9fbe266c8dad16fb99a9612695c4d3"
         },
