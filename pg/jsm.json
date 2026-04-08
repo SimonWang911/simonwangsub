@@ -80,17 +80,6 @@
             "jar": "http://simonwang.cn:7090/tvbox/Pizazz/spider.jar;md5;e5b8d2d8e8583332718b6e20d2c10a86"
         },
         {
-            "key": "极影",
-            "name": "极影｜APP",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://101.201.171.207:802/api.php/app/",
-            "jar": "http://simonwang.cn:7090/tvbox/Pizazz/spider.jar;md5;e5b8d2d8e8583332718b6e20d2c10a86"
-        },
-        {
             "key": "超前",
             "name": "超前丨APP",
             "type": 3,
@@ -415,6 +404,13 @@
             "jar": "http://simonwang.cn:7090/tvbox/Pizazz/spider.jar;md5;e5b8d2d8e8583332718b6e20d2c10a86"
         },
         {
+            "key": "独播影视",
+            "name": "独播｜影视",
+            "type": 3,
+            "api": "csp_Duboku",
+            "jar": "http://simonwang.cn:7090/tvbox/Pizazz/spider.jar;md5;e5b8d2d8e8583332718b6e20d2c10a86"
+        },
+        {
             "key": "厂长影视",
             "name": "厂长｜影视",
             "type": 3,
@@ -439,13 +435,6 @@
             "type": 3,
             "api": "csp_Tvyb",
             "ext": "http://www.tvyb03.com",
-            "jar": "http://simonwang.cn:7090/tvbox/Pizazz/spider.jar;md5;e5b8d2d8e8583332718b6e20d2c10a86"
-        },
-        {
-            "key": "饺子影视",
-            "name": "饺子｜影视",
-            "type": 3,
-            "api": "csp_Jiaozi",
             "jar": "http://simonwang.cn:7090/tvbox/Pizazz/spider.jar;md5;e5b8d2d8e8583332718b6e20d2c10a86"
         },
         {
