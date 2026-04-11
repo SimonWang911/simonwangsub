@@ -330,20 +330,6 @@
             "jar": "http://simonwang.cn:7090/tvbox/Pizazz/spider.jar;md5;c3ca37e99b9a334c67c6646ca1f04d89"
         },
         {
-            "key": "黑猫",
-            "name": "黑猫｜APP",
-            "type": 3,
-            "api": "csp_AppGet",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": {
-                "url": "http://app1-0-0.87333.cc",
-                "dataKey": "VwsHxkCViDXEExWa",
-                "dataIv": "VwsHxkCViDXEExWa"
-            },
-            "jar": "http://simonwang.cn:7090/tvbox/Pizazz/spider.jar;md5;c3ca37e99b9a334c67c6646ca1f04d89"
-        },
-        {
             "key": "灵虎",
             "name": "灵虎｜APP",
             "type": 3,
