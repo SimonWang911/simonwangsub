@@ -3,7 +3,7 @@
     "sites": [
         {
             "key": "豆瓣",
-            "name": "豆瓣|PG版本:20260409-1930",
+            "name": "豆瓣|PG版本:20260415-2138",
             "type": 3,
             "api": "csp_Douban",
             "searchable": 0,
@@ -22,14 +22,14 @@
             "ext": {
                 "url": "http://v.rbotv.cn"
             },
-            "jar": "http://simonwang.cn:7090/tvbox/Pizazz/spider.jar;md5;c3ca37e99b9a334c67c6646ca1f04d89"
+            "jar": "http://simonwang.cn:7090/tvbox/Pizazz/spider.jar;md5;26546bfd59abe9d384b5774af77595dd"
         },
         {
             "key": "三秋影视",
             "name": "三秋｜APP",
             "type": 3,
             "api": "csp_App3Q",
-            "jar": "http://simonwang.cn:7090/tvbox/Pizazz/spider.jar;md5;c3ca37e99b9a334c67c6646ca1f04d89"
+            "jar": "http://simonwang.cn:7090/tvbox/Pizazz/spider.jar;md5;26546bfd59abe9d384b5774af77595dd"
         },
         {
             "key": "韩圈",
@@ -37,7 +37,22 @@
             "type": 3,
             "api": "csp_Hxq",
             "ext": "https://fishapi.wya6.com/fish/fishhxq.php",
-            "jar": "http://simonwang.cn:7090/tvbox/Pizazz/spider.jar;md5;c3ca37e99b9a334c67c6646ca1f04d89"
+            "jar": "http://simonwang.cn:7090/tvbox/Pizazz/spider.jar;md5;26546bfd59abe9d384b5774af77595dd"
+        },
+        {
+            "key": "橘汁",
+            "name": "橘汁｜APP",
+            "type": 3,
+            "api": "csp_Juzhi",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "host": "",
+                "site": "https://vip.123pan.cn/1848463092/cct/az5.txt",
+                "version": "3.0.1.9"
+            },
+            "jar": "http://simonwang.cn:7090/tvbox/Pizazz/spider.jar;md5;26546bfd59abe9d384b5774af77595dd"
         },
         {
             "key": "久久",
@@ -48,7 +63,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "http://99cms.jj99.icu:8199/api.php/app/",
-            "jar": "http://simonwang.cn:7090/tvbox/Pizazz/spider.jar;md5;c3ca37e99b9a334c67c6646ca1f04d89"
+            "jar": "http://simonwang.cn:7090/tvbox/Pizazz/spider.jar;md5;26546bfd59abe9d384b5774af77595dd"
         },
         {
             "key": "奴娜",
@@ -59,7 +74,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://www.nntv.in/api.php/v1.vod",
-            "jar": "http://simonwang.cn:7090/tvbox/Pizazz/spider.jar;md5;c3ca37e99b9a334c67c6646ca1f04d89"
+            "jar": "http://simonwang.cn:7090/tvbox/Pizazz/spider.jar;md5;26546bfd59abe9d384b5774af77595dd"
         },
         {
             "key": "闪影",
@@ -70,7 +85,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "http://38.47.213.61:41271/mogai_api.php/v1.vod",
-            "jar": "http://simonwang.cn:7090/tvbox/Pizazz/spider.jar;md5;c3ca37e99b9a334c67c6646ca1f04d89"
+            "jar": "http://simonwang.cn:7090/tvbox/Pizazz/spider.jar;md5;26546bfd59abe9d384b5774af77595dd"
         },
         {
             "key": "超前",
@@ -81,7 +96,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "http://chaoqianys.top:91/api.php/app/",
-            "jar": "http://simonwang.cn:7090/tvbox/Pizazz/spider.jar;md5;c3ca37e99b9a334c67c6646ca1f04d89"
+            "jar": "http://simonwang.cn:7090/tvbox/Pizazz/spider.jar;md5;26546bfd59abe9d384b5774af77595dd"
         },
         {
             "key": "飞飞",
@@ -92,7 +107,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://qpcj.69mini.com/api.php/app/",
-            "jar": "http://simonwang.cn:7090/tvbox/Pizazz/spider.jar;md5;c3ca37e99b9a334c67c6646ca1f04d89"
+            "jar": "http://simonwang.cn:7090/tvbox/Pizazz/spider.jar;md5;26546bfd59abe9d384b5774af77595dd"
         },
         {
             "key": "云播",
@@ -104,7 +119,7 @@
             "ext": {
                 "host": "http://app.hktvyb.cc"
             },
-            "jar": "http://simonwang.cn:7090/tvbox/Pizazz/spider.jar;md5;c3ca37e99b9a334c67c6646ca1f04d89"
+            "jar": "http://simonwang.cn:7090/tvbox/Pizazz/spider.jar;md5;26546bfd59abe9d384b5774af77595dd"
         },
         {
             "key": "金牌",
@@ -121,7 +136,7 @@
                 "init": "initV122",
                 "ua": "okhttp/3.10.0"
             },
-            "jar": "http://simonwang.cn:7090/tvbox/Pizazz/spider.jar;md5;c3ca37e99b9a334c67c6646ca1f04d89"
+            "jar": "http://simonwang.cn:7090/tvbox/Pizazz/spider.jar;md5;26546bfd59abe9d384b5774af77595dd"
         },
         {
             "key": "老鹰",
@@ -136,7 +151,7 @@
                 "dataIv": "zxPtEUDGVllIUhDB",
                 "ua": "okhttp/3.10.0"
             },
-            "jar": "http://simonwang.cn:7090/tvbox/Pizazz/spider.jar;md5;c3ca37e99b9a334c67c6646ca1f04d89"
+            "jar": "http://simonwang.cn:7090/tvbox/Pizazz/spider.jar;md5;26546bfd59abe9d384b5774af77595dd"
         },
         {
             "key": "蓝鹰",
@@ -152,7 +167,35 @@
                 "init": "initV120",
                 "ua": "okhttp/3.10.0"
             },
-            "jar": "http://simonwang.cn:7090/tvbox/Pizazz/spider.jar;md5;c3ca37e99b9a334c67c6646ca1f04d89"
+            "jar": "http://simonwang.cn:7090/tvbox/Pizazz/spider.jar;md5;26546bfd59abe9d384b5774af77595dd"
+        },
+        {
+            "key": "金都",
+            "name": "金都｜APP",
+            "type": 3,
+            "api": "csp_AppGet",
+            "searchable": 1,
+            "changeable": 1,
+            "ext": {
+                "url": "https://cmm.jindou11.top",
+                "dataKey": "weyuhgiohgsytwhj",
+                "dataIv": "weyuhgiohgsytwhj"
+            },
+            "jar": "http://simonwang.cn:7090/tvbox/Pizazz/spider.jar;md5;26546bfd59abe9d384b5774af77595dd"
+        },
+        {
+            "key": "猎豹",
+            "name": "猎豹｜APP",
+            "type": 3,
+            "api": "csp_AppGet",
+            "searchable": 1,
+            "changeable": 1,
+            "ext": {
+                "url": "https://444421.xyz",
+                "dataKey": "#getapp@TMD@2025",
+                "dataIv": "#getapp@TMD@2025"
+            },
+            "jar": "http://simonwang.cn:7090/tvbox/Pizazz/spider.jar;md5;26546bfd59abe9d384b5774af77595dd"
         },
         {
             "key": "映画",
@@ -166,7 +209,7 @@
                 "dataKey": "bM7iC9eA3oZ1nB7z",
                 "dataIv": "bM7iC9eA3oZ1nB7z"
             },
-            "jar": "http://simonwang.cn:7090/tvbox/Pizazz/spider.jar;md5;c3ca37e99b9a334c67c6646ca1f04d89"
+            "jar": "http://simonwang.cn:7090/tvbox/Pizazz/spider.jar;md5;26546bfd59abe9d384b5774af77595dd"
         },
         {
             "key": "王子",
@@ -180,7 +223,7 @@
                 "dataKey": "5a9w6x58dsq6z3a6",
                 "dataIv": "5a9w6x58dsq6z3a6"
             },
-            "jar": "http://simonwang.cn:7090/tvbox/Pizazz/spider.jar;md5;c3ca37e99b9a334c67c6646ca1f04d89"
+            "jar": "http://simonwang.cn:7090/tvbox/Pizazz/spider.jar;md5;26546bfd59abe9d384b5774af77595dd"
         },
         {
             "key": "星空",
@@ -194,7 +237,7 @@
                 "dataKey": "107jkcdncofcdkjk",
                 "dataIv": "107jkcdncofcdkjk"
             },
-            "jar": "http://simonwang.cn:7090/tvbox/Pizazz/spider.jar;md5;c3ca37e99b9a334c67c6646ca1f04d89"
+            "jar": "http://simonwang.cn:7090/tvbox/Pizazz/spider.jar;md5;26546bfd59abe9d384b5774af77595dd"
         },
         {
             "key": "秒看",
@@ -209,7 +252,7 @@
                 "dataIv": "c60d88b2eep53za8",
                 "token": "4181e508e7a17657d6a6246e70b1b13553e5ae9d8d287dc47000fb2df638dffa"
             },
-            "jar": "http://simonwang.cn:7090/tvbox/Pizazz/spider.jar;md5;c3ca37e99b9a334c67c6646ca1f04d89"
+            "jar": "http://simonwang.cn:7090/tvbox/Pizazz/spider.jar;md5;26546bfd59abe9d384b5774af77595dd"
         },
         {
             "key": "茉莉",
@@ -223,7 +266,7 @@
                 "dataKey": "88689667dce61725",
                 "dataIv": "88689667dce61725"
             },
-            "jar": "http://simonwang.cn:7090/tvbox/Pizazz/spider.jar;md5;c3ca37e99b9a334c67c6646ca1f04d89"
+            "jar": "http://simonwang.cn:7090/tvbox/Pizazz/spider.jar;md5;26546bfd59abe9d384b5774af77595dd"
         },
         {
             "key": "灵虎",
@@ -237,7 +280,7 @@
                 "dataKey": "#getapp@TMD@2025",
                 "dataIv": "#getapp@TMD@2025"
             },
-            "jar": "http://simonwang.cn:7090/tvbox/Pizazz/spider.jar;md5;c3ca37e99b9a334c67c6646ca1f04d89"
+            "jar": "http://simonwang.cn:7090/tvbox/Pizazz/spider.jar;md5;26546bfd59abe9d384b5774af77595dd"
         },
         {
             "key": "围观短剧",
@@ -249,7 +292,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "genre": "shortdrama",
-            "jar": "http://simonwang.cn:7090/tvbox/Pizazz/spider.jar;md5;c3ca37e99b9a334c67c6646ca1f04d89"
+            "jar": "http://simonwang.cn:7090/tvbox/Pizazz/spider.jar;md5;26546bfd59abe9d384b5774af77595dd"
         },
         {
             "key": "甜圈短剧",
@@ -261,7 +304,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "genre": "shortdrama",
-            "jar": "http://simonwang.cn:7090/tvbox/Pizazz/spider.jar;md5;c3ca37e99b9a334c67c6646ca1f04d89"
+            "jar": "http://simonwang.cn:7090/tvbox/Pizazz/spider.jar;md5;26546bfd59abe9d384b5774af77595dd"
         },
         {
             "key": "星芽短剧",
@@ -273,7 +316,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "genre": "shortdrama",
-            "jar": "http://simonwang.cn:7090/tvbox/Pizazz/spider.jar;md5;c3ca37e99b9a334c67c6646ca1f04d89"
+            "jar": "http://simonwang.cn:7090/tvbox/Pizazz/spider.jar;md5;26546bfd59abe9d384b5774af77595dd"
         },
         {
             "key": "剧王短剧",
@@ -285,14 +328,14 @@
             "quickSearch": 1,
             "filterable": 1,
             "genre": "shortdrama",
-            "jar": "http://simonwang.cn:7090/tvbox/Pizazz/spider.jar;md5;c3ca37e99b9a334c67c6646ca1f04d89"
+            "jar": "http://simonwang.cn:7090/tvbox/Pizazz/spider.jar;md5;26546bfd59abe9d384b5774af77595dd"
         },
         {
             "key": "独播影视",
             "name": "独播｜影视",
             "type": 3,
             "api": "csp_Duboku",
-            "jar": "http://simonwang.cn:7090/tvbox/Pizazz/spider.jar;md5;c3ca37e99b9a334c67c6646ca1f04d89"
+            "jar": "http://simonwang.cn:7090/tvbox/Pizazz/spider.jar;md5;26546bfd59abe9d384b5774af77595dd"
         },
         {
             "key": "厂长影视",
@@ -303,7 +346,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://www.czzy89.com",
-            "jar": "http://simonwang.cn:7090/tvbox/Pizazz/spider.jar;md5;c3ca37e99b9a334c67c6646ca1f04d89"
+            "jar": "http://simonwang.cn:7090/tvbox/Pizazz/spider.jar;md5;26546bfd59abe9d384b5774af77595dd"
         },
         {
             "key": "金牌影视",
@@ -311,7 +354,7 @@
             "type": 3,
             "api": "csp_Jpys",
             "ext": "https://m.610pkea.com,https://y2s52n7.com,https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn",
-            "jar": "http://simonwang.cn:7090/tvbox/Pizazz/spider.jar;md5;c3ca37e99b9a334c67c6646ca1f04d89"
+            "jar": "http://simonwang.cn:7090/tvbox/Pizazz/spider.jar;md5;26546bfd59abe9d384b5774af77595dd"
         },
         {
             "key": "云播影视",
@@ -319,14 +362,14 @@
             "type": 3,
             "api": "csp_Tvyb",
             "ext": "http://www.tvyb03.com",
-            "jar": "http://simonwang.cn:7090/tvbox/Pizazz/spider.jar;md5;c3ca37e99b9a334c67c6646ca1f04d89"
+            "jar": "http://simonwang.cn:7090/tvbox/Pizazz/spider.jar;md5;26546bfd59abe9d384b5774af77595dd"
         },
         {
             "key": "瓜子影视",
             "name": "瓜子｜影视",
             "type": 3,
             "api": "csp_Gz360",
-            "jar": "http://simonwang.cn:7090/tvbox/Pizazz/spider.jar;md5;c3ca37e99b9a334c67c6646ca1f04d89"
+            "jar": "http://simonwang.cn:7090/tvbox/Pizazz/spider.jar;md5;26546bfd59abe9d384b5774af77595dd"
         },
         {
             "key": "骚火影视",
@@ -334,7 +377,7 @@
             "type": 3,
             "api": "csp_SaoHuo",
             "ext": "https://shdy5.us",
-            "jar": "http://simonwang.cn:7090/tvbox/Pizazz/spider.jar;md5;c3ca37e99b9a334c67c6646ca1f04d89"
+            "jar": "http://simonwang.cn:7090/tvbox/Pizazz/spider.jar;md5;26546bfd59abe9d384b5774af77595dd"
         },
         {
             "key": "农民影视",
@@ -342,7 +385,7 @@
             "type": 3,
             "api": "csp_Wwys",
             "ext": "https://vip.wwgz.cn:5200",
-            "jar": "http://simonwang.cn:7090/tvbox/Pizazz/spider.jar;md5;c3ca37e99b9a334c67c6646ca1f04d89"
+            "jar": "http://simonwang.cn:7090/tvbox/Pizazz/spider.jar;md5;26546bfd59abe9d384b5774af77595dd"
         },
         {
             "key": "爱看机器人",
@@ -352,7 +395,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar": "http://simonwang.cn:7090/tvbox/Pizazz/spider.jar;md5;c3ca37e99b9a334c67c6646ca1f04d89"
+            "jar": "http://simonwang.cn:7090/tvbox/Pizazz/spider.jar;md5;26546bfd59abe9d384b5774af77595dd"
         },
         {
             "key": "小镇影视",
@@ -360,7 +403,7 @@
             "type": 3,
             "api": "csp_XBPQ",
             "ext": "./XBPQ/小镇影视.json",
-            "jar": "http://simonwang.cn:7090/tvbox/Pizazz/spider.jar;md5;c3ca37e99b9a334c67c6646ca1f04d89"
+            "jar": "http://simonwang.cn:7090/tvbox/Pizazz/spider.jar;md5;26546bfd59abe9d384b5774af77595dd"
         },
         {
             "key": "面包影视",
@@ -368,7 +411,7 @@
             "type": 3,
             "api": "csp_XBPQ",
             "ext": "./XBPQ/面包影视.json",
-            "jar": "http://simonwang.cn:7090/tvbox/Pizazz/spider.jar;md5;c3ca37e99b9a334c67c6646ca1f04d89"
+            "jar": "http://simonwang.cn:7090/tvbox/Pizazz/spider.jar;md5;26546bfd59abe9d384b5774af77595dd"
         },
         {
             "key": "永乐影视",
@@ -376,7 +419,7 @@
             "type": 3,
             "api": "csp_XBPQ",
             "ext": "./XBPQ/永乐影视.json",
-            "jar": "http://simonwang.cn:7090/tvbox/Pizazz/spider.jar;md5;c3ca37e99b9a334c67c6646ca1f04d89"
+            "jar": "http://simonwang.cn:7090/tvbox/Pizazz/spider.jar;md5;26546bfd59abe9d384b5774af77595dd"
         },
         {
             "key": "剧圈影视",
@@ -384,7 +427,7 @@
             "type": 3,
             "api": "csp_XYQHiker",
             "ext": "./XYQHiker/剧圈影视.json",
-            "jar": "http://simonwang.cn:7090/tvbox/Pizazz/spider.jar;md5;c3ca37e99b9a334c67c6646ca1f04d89"
+            "jar": "http://simonwang.cn:7090/tvbox/Pizazz/spider.jar;md5;26546bfd59abe9d384b5774af77595dd"
         },
         {
             "key": "1905",
@@ -394,7 +437,7 @@
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 0,
-            "jar": "http://simonwang.cn:7090/tvbox/Pizazz/spider.jar;md5;c3ca37e99b9a334c67c6646ca1f04d89"
+            "jar": "http://simonwang.cn:7090/tvbox/Pizazz/spider.jar;md5;26546bfd59abe9d384b5774af77595dd"
         },
         {
             "key": "TGDouban",
