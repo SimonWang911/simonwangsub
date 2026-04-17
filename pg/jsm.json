@@ -3,7 +3,7 @@
     "sites": [
         {
             "key": "豆瓣",
-            "name": "豆瓣|PG版本:20260416-1754",
+            "name": "豆瓣|PG版本:20260417-2112",
             "type": 3,
             "api": "csp_Douban",
             "searchable": 0,
