@@ -233,6 +233,22 @@
             "jar": "http://simonwang.cn:7090/tvbox/Pizazz/spider.jar;md5;87a88e3b3f2e600ba89dbde2fc05642a"
         },
         {
+            "key": "首发",
+            "name": "首发｜APP",
+            "type": 3,
+            "api": "csp_AppQi",
+            "searchable": 1,
+            "changeable": 1,
+            "ext": {
+                "site": "https://yun-1316442804.cos.ap-guangzhou.myqcloud.com/600.txt",
+                "dataKey": "FTgP4Gq8zPiqbt7M",
+                "dataIv": "FTgP4Gq8zPiqbt7M",
+                "init": "initV122",
+                "ua": "okhttp/3.10.0"
+            },
+            "jar": "http://simonwang.cn:7090/tvbox/Pizazz/spider.jar;md5;87a88e3b3f2e600ba89dbde2fc05642a"
+        },
+        {
             "key": "金牌",
             "name": "金牌｜APP",
             "type": 3,
