@@ -109,23 +109,6 @@
             "jar": "http://simonwang.cn:7090/tvbox/Pizazz/spider.jar;md5;87a88e3b3f2e600ba89dbde2fc05642a"
         },
         {
-            "key": "咕噜99",
-            "name": "咕噜丨APP",
-            "type": 3,
-            "api": "csp_App99",
-            "ext": {
-                "host": "http://103.45.132.22:19987/app/bn",
-                "LoginPath": "/app/log",
-                "appkey": "d1f0c269eab74d93821fffc9befdbbba",
-                "versionName": "1.9.5",
-                "name": "咕噜咕噜",
-                "package": "com.bd.tool.gulu",
-                "buildNumber": "2001",
-                "buildSignature": "B07C8F6DBEBD3ABEE6A4A4DE2BFBBF29A0AC3F984D532A39448EC3BF5DD36311"
-            },
-            "jar": "http://simonwang.cn:7090/tvbox/Pizazz/spider.jar;md5;87a88e3b3f2e600ba89dbde2fc05642a"
-        },
-        {
             "key": "剧圈99",
             "name": "剧圈丨APP",
             "type": 3,
@@ -475,6 +458,18 @@
             "jar": "http://simonwang.cn:7090/tvbox/Pizazz/spider.jar;md5;87a88e3b3f2e600ba89dbde2fc05642a"
         },
         {
+            "key": "好看短剧",
+            "name": "好看｜短剧",
+            "type": 3,
+            "api": "csp_HaokanDJ",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "genre": "shortdrama",
+            "jar": "http://simonwang.cn:7090/tvbox/Pizazz/spider.jar;md5;87a88e3b3f2e600ba89dbde2fc05642a"
+        },
+        {
             "key": "围观短剧",
             "name": "围观｜短剧",
             "type": 3,
@@ -513,7 +508,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://www.czzy89.com",
+            "ext": "https://cz01.vip",
             "jar": "http://simonwang.cn:7090/tvbox/Pizazz/spider.jar;md5;87a88e3b3f2e600ba89dbde2fc05642a"
         },
         {
@@ -529,6 +524,13 @@
             "name": "瓜子｜影视",
             "type": 3,
             "api": "csp_Gz360",
+            "jar": "http://simonwang.cn:7090/tvbox/Pizazz/spider.jar;md5;87a88e3b3f2e600ba89dbde2fc05642a"
+        },
+        {
+            "key": "云播影视",
+            "name": "云播｜影视",
+            "type": 3,
+            "api": "csp_Tvyb",
             "jar": "http://simonwang.cn:7090/tvbox/Pizazz/spider.jar;md5;87a88e3b3f2e600ba89dbde2fc05642a"
         },
         {
