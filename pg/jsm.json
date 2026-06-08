@@ -387,20 +387,6 @@
             "jar": "http://simonwang.cn:7090/tvbox/Pizazz/spider.jar;md5;87a88e3b3f2e600ba89dbde2fc05642a"
         },
         {
-            "key": "映画",
-            "name": "映画｜APP",
-            "type": 3,
-            "api": "csp_AppGet",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": {
-                "url": "https://cms140.yhg.one",
-                "dataKey": "bM7iC9eA3oZ1nB7z",
-                "dataIv": "bM7iC9eA3oZ1nB7z"
-            },
-            "jar": "http://simonwang.cn:7090/tvbox/Pizazz/spider.jar;md5;87a88e3b3f2e600ba89dbde2fc05642a"
-        },
-        {
             "key": "王子",
             "name": "王子｜APP",
             "type": 3,
