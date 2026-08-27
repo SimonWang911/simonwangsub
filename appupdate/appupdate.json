@@ -4,27 +4,27 @@
         "list": [
             {
                 "name": "📺️Simon TV电视版",
-                "url": "https://gh-proxy.com/github.com/SimonWang911/simon-tv-release/releases/download/v5.6.6-simon/Simon-leanback-arm64_v8a.apk",
+                "url": "https://gh-proxy.com/github.com/SimonWang911/simon-tv-release/releases/download/v5.7.2-simon/Simon-leanback-arm64_v8a.apk",
                 "icon": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1691551074.55475919.png",
-                "version": "5.6.6|64位"
+                "version": "5.7.2|64位"
             },
             {
                 "name": "📺️Simon TV电视版",
-                "url": "https://gh-proxy.com/github.com/SimonWang911/simon-tv-release/releases/download/v5.6.6-simon/Simon-leanback-armeabi_v7a.apk",
+                "url": "https://gh-proxy.com/github.com/SimonWang911/simon-tv-release/releases/download/v5.7.2-simon/Simon-leanback-armeabi_v7a.apk",
                 "icon": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1691551074.55475919.png",
-                "version": "5.6.6|32位"
+                "version": "5.7.2|32位"
             },
             {
                 "name": "📱Simon TV手机版",
-                "url": "https://gh-proxy.com/github.com/SimonWang911/simon-tv-release/releases/download/v5.6.6-simon/Simon-mobile-arm64_v8a.apk",
+                "url": "https://gh-proxy.com/github.com/SimonWang911/simon-tv-release/releases/download/v5.7.2-simon/Simon-mobile-arm64_v8a.apk",
                 "icon": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1730124020.81653464.png",
-                "version": "5.6.6|64位"
+                "version": "5.7.2|64位"
             },
             {
                 "name": "📱Simon TV手机版",
-                "url": "https://gh-proxy.com/github.com/SimonWang911/simon-tv-release/releases/download/v5.6.6-simon/Simon-mobile-armeabi_v7a.apk",
+                "url": "https://gh-proxy.com/github.com/SimonWang911/simon-tv-release/releases/download/v5.7.2-simon/Simon-mobile-armeabi_v7a.apk",
                 "icon": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1730124020.81653464.png",
-                "version": "5.6.6|32位"
+                "version": "5.7.2|32位"
             }
         ]
     },
@@ -103,27 +103,27 @@
         "list": [
             {
                 "name": "📺️电视版",
-                "url": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/releases/download/2026.06.29-0846/FongMi-Leanback-64-5.5.6.apk",
+                "url": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/releases/download/2026.08.27-180720/FongMi-Leanback-64-5.6.1.apk",
                 "icon": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1691551074.55475919.png",
-                "version": "5.5.6|64位"
+                "version": "5.6.1|64位"
             },
             {
                 "name": "📺️电视版",
-                "url": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/releases/download/2026.06.29-0846/FongMi-Leanback-32-5.5.6.apk",
+                "url": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/releases/download/2026.08.27-180720/FongMi-Leanback-32-5.6.1.apk",
                 "icon": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1691551074.55475919.png",
-                "version": "5.5.6|32位"
+                "version": "5.6.1|32位"
             },
             {
                 "name": "📱手机版",
-                "url": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/releases/download/2026.06.29-0846/FongMi-Mobile-64-5.5.6.apk",
+                "url": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/releases/download/2026.08.27-180720/FongMi-Mobile-64-5.6.1.apk",
                 "icon": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1730124020.81653464.png",
-                "version": "5.5.6|64位"
+                "version": "5.6.1|64位"
             },
             {
                 "name": "📱手机版",
-                "url": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/releases/download/2026.06.29-0846/FongMi-Mobile-32-5.5.6.apk",
+                "url": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/releases/download/2026.08.27-180720/FongMi-Mobile-32-5.6.1.apk",
                 "icon": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1730124020.81653464.png",
-                "version": "5.5.6|32位"
+                "version": "5.6.1|32位"
             }
         ]
     },
@@ -132,15 +132,15 @@
         "list": [
             {
                 "name": "📺64位版本",
-                "url": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/releases/download/2026.03.29-1711/YYKM-3.8.4-arm64-v8a.apk",
+                "url": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/releases/download/2026.08.27-180720/YYKM-3.8.4-1-arm64-v8a.apk",
                 "icon": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/blob/main/logo/tgyy.jpg",
-                "version": "3.8.4"
+                "version": "3.8.4-1"
             },
             {
                 "name": "📺32位版本",
-                "url": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/releases/download/2026.03.29-1711/YYKM-3.8.4-armeabi-v7a.apk",
+                "url": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/releases/download/2026.08.27-180720/YYKM-3.8.4-1-armeabi-v7a.apk",
                 "icon": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/blob/main/logo/tgyy.jpg",
-                "version": "3.8.4"
+                "version": "3.8.4-1"
             }
         ]
     },
@@ -242,15 +242,15 @@
         "list": [
             {
                 "name": "📺️Python版",
-                "url": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/releases/download/2026.07.26-150635/TVBox_q215613905_20260715-2319-python.apk",
+                "url": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/releases/download/2026.08.27-180720/TVBox_q215613905_20260825-1639-python.apk",
                 "icon": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1691551074.55475919.png",
-                "version": "20260715-2319"
+                "version": "20260825-1639"
             },
             {
                 "name": "📺️Java版",
-                "url": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/releases/download/2026.07.26-150635/TVBox_q215613905_20260715-2319-java.apk",
+                "url": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/releases/download/2026.08.27-180720/TVBox_q215613905_20260825-1639-java.apk",
                 "icon": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1691551074.55475919.png",
-                "version": "20260715-2319"
+                "version": "20260825-1639"
             }
         ]
     },
