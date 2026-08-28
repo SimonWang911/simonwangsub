@@ -132,27 +132,27 @@
         "list": [
             {
                 "name": "📺️电视版",
-                "url": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/releases/download/2026.08.27-180720/FongMi-Leanback-64-5.6.1.apk",
+                "url": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/releases/download/2026.08.29-050157/FongMi-Leanback-64-5.6.3.apk",
                 "icon": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1691551074.55475919.png",
-                "version": "5.6.1|64位"
+                "version": "5.6.3|64位"
             },
             {
                 "name": "📺️电视版",
-                "url": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/releases/download/2026.08.27-180720/FongMi-Leanback-32-5.6.1.apk",
+                "url": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/releases/download/2026.08.29-050157/FongMi-Leanback-32-5.6.3.apk",
                 "icon": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1691551074.55475919.png",
-                "version": "5.6.1|32位"
+                "version": "5.6.3|32位"
             },
             {
                 "name": "📱手机版",
-                "url": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/releases/download/2026.08.27-180720/FongMi-Mobile-64-5.6.1.apk",
+                "url": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/releases/download/2026.08.29-050157/FongMi-Mobile-64-5.6.3.apk",
                 "icon": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1730124020.81653464.png",
-                "version": "5.6.1|64位"
+                "version": "5.6.3|64位"
             },
             {
                 "name": "📱手机版",
-                "url": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/releases/download/2026.08.27-180720/FongMi-Mobile-32-5.6.1.apk",
+                "url": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/releases/download/2026.08.29-050157/FongMi-Mobile-32-5.6.3.apk",
                 "icon": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1730124020.81653464.png",
-                "version": "5.6.1|32位"
+                "version": "5.6.3|32位"
             }
         ]
     },
