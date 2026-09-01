@@ -271,15 +271,15 @@
         "list": [
             {
                 "name": "📺️Python版",
-                "url": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/releases/download/2026.08.27-180720/TVBox_q215613905_20260825-1639-python.apk",
+                "url": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/releases/download/2026.09.02-051151/TVBox_q215613905_20260901-1736-python.apk",
                 "icon": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1691551074.55475919.png",
-                "version": "20260825-1639"
+                "version": "20260901-1736"
             },
             {
                 "name": "📺️Java版",
-                "url": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/releases/download/2026.08.27-180720/TVBox_q215613905_20260825-1639-java.apk",
+                "url": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/releases/download/2026.09.02-051151/TVBox_q215613905_20260901-1736-java.apk",
                 "icon": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1691551074.55475919.png",
-                "version": "20260825-1639"
+                "version": "20260901-1736"
             }
         ]
     },
